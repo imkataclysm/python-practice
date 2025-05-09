@@ -1,4 +1,5 @@
-## 🐢 Turtle Module Method Reference
+## Method Dictionary
+We’ll be using a variety of methods throughout this example. Here’s the definitions and information about their parameters.
 
 | **Method**       | **Parameters**                                     | **Definition** |
 |------------------|----------------------------------------------------|-----------------|
